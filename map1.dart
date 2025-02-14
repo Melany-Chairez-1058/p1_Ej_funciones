@@ -16,8 +16,8 @@ void main() {
   };
   print('melany sarahi chairez arias 22308051058');
 
-  print('\n Meses del año');
-
+  
+print('meses del año: $meses');
   int numeroMes=5;
   String mombreMes=meses[numeroMes]!;
   print('\n El mes con el número $numeroMes es $mombreMes');
